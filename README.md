@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>BS, Management and Military Art and Science</td>
-    <td>Korea Military Academy (<i>2006</i>)(<i>cum laude</i>)</td>
+    <td>Korea Military Academy (<i>2016</i>)(<i>cum laude</i>)</td>
   </tr>
 </table>
 
