@@ -15,11 +15,11 @@
 <table>
   <tr>
     <td>MS, Operations Research</td>
-    <td>Korea National Defense University (<i>2024~</i>)</td>
+    <td>Naval Postgraduate School (<i>2025~</i>)</td>
   </tr>
   <tr>
     <td>MS, Operations Research</td>
-    <td>Naval Postgraduate School (<i>2025~</i>)</td>
+    <td>Korea National Defense University (<i>2024~</i>)</td>
   </tr>
   <tr>
     <td>BS, Management and Military Art and Science</td>
