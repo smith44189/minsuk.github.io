@@ -36,3 +36,5 @@ As an infantry officer, I bring a wide range of operational experience, includin
 [Git Repo](https://github.com/smith44189/py_qrcode_gen)
 
 Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
+
+<img src='images/streamlit_QR_screenshot.jpg' alt='dashboard' height=200/>
