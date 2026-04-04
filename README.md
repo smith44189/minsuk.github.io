@@ -41,9 +41,4 @@ Developed a physics-informed Markov Decision Process (MDP) framework integrated 
 - Solved the MDP using linear programming
 - Applied to a real-world water network (USVI)
 
-### Streamlit App for Generating QR Codes
-[Git Repo](https://github.com/smith44189/py_qrcode_gen)
-
-Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
-
-<img src='images/streamlit_QR_screenshot.jpg' alt='dashboard' height=200/>
+### Ongoing: Optimal Repair and Inspection Policy Design for Water Infrastructure Resilience using MDP
