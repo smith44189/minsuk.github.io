@@ -2,13 +2,13 @@
 
 ### Operations Research | R.O.K Army Officer
 
-**Interested In:** AI/ML, Decision Making under Uncertainty, Markov Decision Process, Network Optimization, Stochastic Modeling, Optimization under Uncertainty, Infrastructure Resilience
+**Interested In:** AI/ML, Decision Making under Uncertainty, Reinforcement Learning, Network Optimization, Stochastic Modeling, Infrastructure Resilience 
 
-**Skills:** Python and R Data Analysis Ecosystem, a variety of Optimization methods, Simulation Modeling, Statistical Analysis, HPC, Web Dashboards 
+**Skills:** Python and R Data Analysis Ecosystem, a variety of Optimization methods, Stochastic Modeling, Statistical Machine Learning, Simulation Modeling, HPC, Web Dashboards 
 
 ## Contact Me
 - **Email:** smith44189@gmail.com
-- **Phone:** +82 10-6605-3234
+- **Phone:** 010-6605-3234
 
 ## Education
 
