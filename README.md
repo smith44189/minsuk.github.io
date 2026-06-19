@@ -28,8 +28,13 @@
 </table>
 
 ## Academical Certificate
+<table>
+  <tr>
+    <td>Operational Data Science and Statistical Machine Learning Certificate</td>
+    <td>Naval Postgraduate School (<i>2026</i>)</td>
+  </tr>
+</table>
 
-- Operational Data Science and Statistical Machine Learning Certificate from Naval Postgraduate School
 
 
 ## Work Experience
