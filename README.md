@@ -1,6 +1,6 @@
 # Minsuk Seo
 
-### Operations Research | R.O.K Army Officer
+### R.O.K Army Officer | Operations Researcher | AI for Decision Making
 
 **Interested In:** AI/ML, Decision Making under Uncertainty, Reinforcement Learning, Network Optimization, Stochastic Modeling, Infrastructure Resilience 
 
@@ -36,9 +36,9 @@
 </table>
 
 
-
 ## Work Experience
-As an infantry officer, I bring a wide range of operational experience, including assignments at the frontlines in confrontation with the North Korean Army, in rear areas, as a security detail for the Presidential Security Service, and as a company commander at a General Outpost(GOP) unit. I also served as an instructor at the NCO Academy.
+As an infantry officer, I bring a wide range of operational experience, including assignments at the frontlines in confrontation with the North Korean Army, in rear areas, as a security detail for the Presidential Security Service, and as a company commander at a General Outpost(GOP) unit.
+
 
 ## Papers
 
