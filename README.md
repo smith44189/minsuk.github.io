@@ -40,7 +40,7 @@
 ## Work Experience
 As an infantry officer, I bring a wide range of operational experience, including assignments at the frontlines in confrontation with the North Korean Army, in rear areas, as a security detail for the Presidential Security Service, and as a company commander at a General Outpost(GOP) unit. I also served as an instructor at the NCO Academy.
 
-## Projects
+## Papers
 
 ### Optimizing Maintenance Decision Policies for Water Infrastructure Resilience: A Case Study of the U.S. Virgin Islands (USVI)
 
