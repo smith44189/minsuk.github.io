@@ -2,7 +2,7 @@
 
 ### Operations Research | R.O.K Army Officer
 
-**Interested In:** AI/ML, Infrastructure Resilience, Markov Decision Process, Network Optimization, Stochastic Modeling, Optimization under Uncertainty
+**Interested In:** AI/ML, Decision Making under Uncertainty, Markov Decision Process, Network Optimization, Stochastic Modeling, Optimization under Uncertainty, Infrastructure Resilience
 
 **Skills:** Python and R Data Analysis Ecosystem, a variety of Optimization methods, Simulation Modeling, Statistical Analysis, HPC, Web Dashboards 
 
