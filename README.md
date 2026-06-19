@@ -15,15 +15,15 @@
 <table>
   <tr>
     <td>MS, Operations Research</td>
-    <td>Naval Postgraduate School (<i>2026</i>)(<i>Graduated with high academic distinction</i>)</td>
+    <td>Naval Postgraduate School (<i>2026</i>)(<i>Graduated with high academic distinction</i>)(<i>GPA: 3.98/4.00</i>)</td>
   </tr>
   <tr>
     <td>MS, Operations Research</td>
-    <td>Korea National Defense University (<i>2025</i>)(<i>Graduated with high academic distinction</i>)</td>
+    <td>Korea National Defense University (<i>2025</i>)(<i>Graduated with high academic distinction</i>)(<i>GPA: 4.26/4.30</i>)</td>
   </tr>
   <tr>
     <td>BS, Management and Military Art and Science</td>
-    <td>Korea Military Academy (<i>2016</i>)(<i>Graduated with high academic distinction</i>)</td>
+    <td>Korea Military Academy (<i>2016</i>)(<i>Graduated with high academic distinction</i>)(<i>GPA: 3.94/4.30</i>)</td>
   </tr>
 </table>
 
